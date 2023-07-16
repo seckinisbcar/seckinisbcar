@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Seçkin işbacar</h2>
 
-- 🌱 I’m currently learning **Data Science**
-- 💬 You could ask me about Data Science and Statistics**
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 You could ask me about **Data Analysis** and **Statistics**
 - 📫 How to reach me **seckinisbcr.work@outlook.com**
 
 
