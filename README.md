@@ -1,12 +1,76 @@
-<h2 align="center">Hi 👋, I'm Seçkin işbacar</h2>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 You could ask me about **Data Analysis** and **Statistics**
-- 📫 How to reach me **seckinisbcr.work@outlook.com**
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/seckinisbacar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/SPSS_logo.svg/500px-SPSS_logo.svg.png?20100810013838" alt="spss" width="40"<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/> </a> 
+</div>
 
+###
 
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seckinisbcar.seckinisbcar&"  />
+</div>
+
+###
+
+<h1 align="left">Hi 👋, I'm Seçkin işbacar</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🌱 I’m currently learning <b>Machine Learning</b><br>- 💬 You could ask me about <b>Data Analysis</b> and <b>Statistics</b> <br>- 📫 How to reach me <b> seckinisbcr.work@outlook.com </b></p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rstudio/75AADB" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=seckinisbcar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
