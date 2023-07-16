@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Seçkin işbacar</h1>
+<h1 align="left">Hi 👋, I'm Seçkin </h1>
 
 ###
 
