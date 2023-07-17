@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/seckinisbacar" target="_blank">
+   <a href="https://www.kaggle.com/seckinisbcr" target="_blank">
     <img src="https://www.kaggle.com/static/images/site-logo.svg" height="25" alt="linkedin logo"  />
   </a>
 
