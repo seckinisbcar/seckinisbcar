@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning <b>Machine Learning</b><br>- 💬 You could ask me about <b>Data Analysis</b> and <b>Statistics</b> <br>- 📫 How to reach me <b> seckinisbcr.work@outlook.com </b></p>
+<p align="left">- 🌱 I’m currently learning <b>Machine Learning</b><br>- 💬 You could ask me about <b>Data Analysis</b> and <b>Statistics</b> <br>- 📫 How to reach me <b> seckinisbacar@outlook.com </b></p>
 
 ###
 
